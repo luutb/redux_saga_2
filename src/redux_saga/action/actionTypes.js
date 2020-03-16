@@ -1,0 +1,4 @@
+export const  CLICK_BUTTON_LOGIN = "CLICK_BUTTON_LOGIN"
+export const  LISTEN_CLICK_BUTTON_LOGIN = "LISTEN_CLICK_BUTTON_LOGIN"
+export const SUCCESS = "SUCCESS"
+export const ERROR = "ERROR"
