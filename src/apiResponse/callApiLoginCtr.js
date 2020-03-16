@@ -35,7 +35,6 @@ const HOST = "http://172.19.201.6:8080/";
     }
 
     //phuong thuc post
-    // test
 export function* _callApiPost (data){
 
      console.log(data)
